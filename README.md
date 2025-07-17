@@ -23,7 +23,6 @@
 - CSS3 (включая Flexbox, Grid, анимации)
 - JavaScript (Vanilla JS, Vue.js)
 - Responsive Design
-- Materialize CSS (в некоторых проектах)
 
 ## Запуск проекта
 
